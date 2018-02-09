@@ -1,7 +1,7 @@
 # BFF设计
 
 ## 技术选型
-|       | Vert.x | Node.js | Spring Cloud | 备注 |
+|       | Node.js | Spring Cloud | Vert.x | 备注 |
 |:-----:|--------|---------|--------------|-----|
 | 性能    |        |         |              |     |
 | 监控    |        |         |              |     |
